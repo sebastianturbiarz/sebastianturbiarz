@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**turbiarz/turbiarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Sebastian Turbiarz and I'm a JavaScript Developer. I'm from Poland, living in Cracow and currently working at [@Bejamas](https://github.com/bejamas). You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-Here are some ideas to get you started:
+<!-- icons with padding -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+<!-- links to your social media accounts -->
+
+[1]: https://twitter.com/TurbiarzS
+[2]: https://github.com/turbiarz
+[3]: https://www.linkedin.com/in/sebastian-turbiarz-71018b169/
