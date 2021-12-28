@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Sebastian Turbiarz and I'm a JavaScript Developer. I'm from Poland, living in Cracow and currently working at [@Bejamas](https://github.com/bejamas). You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Sebastian Turbiarz and I'm a JavaScript Developer. I'm from Poland, living in Cracow and currently working at [@DroidsOnRoids](https://github.com/DroidsOnRoids). You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 <!-- icons with padding -->
 
